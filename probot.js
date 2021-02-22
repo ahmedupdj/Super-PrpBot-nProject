@@ -29,7 +29,7 @@ const fs = require("fs");
 
 const prefix ="$"
 const devs = '667342379753275421';
-client.login('NzEyNDk2NTc1NzYyNjYxMzg2.XsSaJQ.hIX9DstyeILJpO0kqBvZdHmkg8E');
+client.login('ODA4MzUxODUyMzQwODM4NDQw.YCFSVA.2OD-QQPwUMJ1rgiZyfZpK2umU7k');
         
 
 
